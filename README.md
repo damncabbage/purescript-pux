@@ -12,7 +12,7 @@ applications.
 
 - Build React UIs as a fold of actions to state.
 - Type-safe routing
-- Server-side rendering (isomorphic applications)
+- Server-side rendering (universal/"isomorphic" applications)
 - Hot-reloading of components
 - Interop with existing React components
 
